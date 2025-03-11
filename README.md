@@ -1,4 +1,3 @@
-```markdown
 # git-difflog
 
 A Git extension that runs `git diff` and saves the output to a configured directory with timestamps.
@@ -14,7 +13,7 @@ pip install git-difflog
 Or clone the repository and install:
 
 ```bash
-git clone https://github.com/yourusername/git-difflog.git
+git clone https://github.com/zoe0316/git-difflog.git
 cd git-difflog
 python setup.py install
 ```
