@@ -51,18 +51,3 @@ tmp/
 
 !/setup.py
 
-.mypy_cache
-test*
-*.csv
-*test.*
-!*backtest.py
-!*_test.py
-*.pickle
-export
-financial*
-alphalens*
-*.yaml
-.vscode
-dqfactor/example/daytime
-dqfactor/example/intraday
-dqfactor/*_test.py
